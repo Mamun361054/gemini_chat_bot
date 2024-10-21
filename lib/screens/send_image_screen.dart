@@ -19,7 +19,7 @@ class _SendImageScreenState extends ConsumerState<SendImageScreen> {
   XFile? image;
   late final TextEditingController _promptController;
   bool isLoading = false;
-  final apiKey = dotenv.env['API_KEY'] ?? '';
+  final apiKey = dotenv.env['API_KEY_GEMINI'] ?? '';
 
   @override
   void initState() {
