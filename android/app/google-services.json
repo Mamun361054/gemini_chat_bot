@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "450700439459",
+    "project_id": "partytime-64f81",
+    "storage_bucket": "partytime-64f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450700439459:android:4752a2c363b95291b5f416",
+        "android_client_info": {
+          "package_name": "com.chat_bot.gemini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450700439459-e8gvnohb3kch98ib7ilti6nfs8v2koc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat_bot.gemini",
+            "certificate_hash": "c0748799b4e6e3a8cb5a80510532357f8c22921c"
+          }
+        },
+        {
+          "client_id": "450700439459-917610li5dr6bh1bgml3558kj0vfik7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmEcNnUlPhdw_td6FlIdJJHBISe04X7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450700439459-917610li5dr6bh1bgml3558kj0vfik7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450700439459-uau7g4dbg8o0ab4k5acn57jm9nbsmr28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.time.party"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450700439459:android:2ced48c361589fbbb5f416",
+        "android_client_info": {
+          "package_name": "com.example.party_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450700439459-917610li5dr6bh1bgml3558kj0vfik7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmEcNnUlPhdw_td6FlIdJJHBISe04X7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450700439459-917610li5dr6bh1bgml3558kj0vfik7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450700439459-uau7g4dbg8o0ab4k5acn57jm9nbsmr28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.time.party"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
