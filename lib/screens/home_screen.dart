@@ -15,7 +15,7 @@ class HomeScreen extends ConsumerStatefulWidget {
 
 class _HomeScreenState extends ConsumerState<HomeScreen> {
   late final TextEditingController _messageController;
-  final apiKey = dotenv.env['API_KEY'] ?? '';
+  final apiKey = dotenv.env['API_KEY_GEMINI'] ?? '';
 
   @override
   void initState() {
